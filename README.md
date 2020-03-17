@@ -20,11 +20,9 @@
 	  2. python draw.py
       note:   not F:\123 python draw.py
       should:
-      """
         D:
         cd D:\123
         python draw.py
-      """
     3. Add the attribute:
           fileplace  -- eg: example_world.csv
           dropzero -- to show the countries that value 0 or not 
@@ -59,11 +57,9 @@
 	  2. 运行python draw.py
       不是:  F:\123 python draw.py
       而是:
-      """
         D:
         cd D:\123
         python draw.py
-      """
     3. 可以调的属性值:
           文件名  -- eg: example_world.csv
           0值的国家是否显示
